@@ -1,13 +1,11 @@
-&#x20;Regional Sales Performance Analysis \& Visualisation
+Regional Sales Performance Analysis & Visualisation
 
-
-
-## &#x20;Project Overview
+## Project Overview
 
 This project focuses on analyzing regional sales performance to uncover trends, identify high-performing markets, and highlight areas for business improvement. Using data visualization and business intelligence techniques, the project transforms raw sales data into actionable insights for strategic decision-making.
 The dashboard provides an interactive view of sales, profit, product categories, and customer segments across different regions.
 
-## &#x20;Objectives
+## Objectives
 
 Analyze overall sales and profitability by region
 Compare performance across product categories and sub-categories
@@ -15,57 +13,54 @@ Identify top-performing and underperforming regions
 Track sales trends over time
 Provide actionable recommendations for business growth
 
-## &#x20;Tools \& Technologies Used
+## Tools & Technologies Used
 
-* Power BI
-* Excel
-* Python
-* Pandas
-* Data Cleaning \& Transformation
-* Data Visualization
-* Business Intelligence Reporting
+- Power BI
+- Excel
+- Python
+- Pandas
+- Data Cleaning & Transformation
+- Data Visualization
+- Business Intelligence Reporting
 
-## &#x20;Dashboard Highlights
+## Dashboard Highlights
 
-* Regional Performance Overview – Compare revenue and profit across regions
-* Sales Trend Analysis – Monthly / yearly growth patterns
-* Category Insights – Best-selling product categories
-* Profitability Analysis – Identify margins by region and product line
-* Interactive Filters – Drill down by date, region, and category
+- Regional Performance Overview – Compare revenue and profit across regions
+- Sales Trend Analysis – Monthly / yearly growth patterns
+- Category Insights – Best-selling product categories
+- Profitability Analysis – Identify margins by region and product line
+- Interactive Filters – Drill down by date, region, and category
 
-# Home
+## Home
 
-!\[Home](images/Home.png)
+![Home](images/Home.png)
 
-# Executive Overview
+## Executive Overview
 
-!\[Executive\_Overview](images/ExecutiveOverview.png)
+![Executive_Overview](images/ExecutiveOverview.png)
 
-# Product \& Channel Performance
+## Product & Channel Performance
 
-!\[P\&C](images/Product\&ChannelPerformance.png)
+![P&C](images/Product&ChannelPerformance.png)
 
-# Customer Insight
+## Customer Insight
 
-!\[CI](images/CustomerInsight.png)
+![CI](images/CustomerInsight.png)
 
-# Geopraphic Insight
+## Geopraphic Insight
 
-!\[GI](images/GeographicInsight.png)
+![GI](images/GeographicInsight.png)
 
+## Key Insights
 
+- Certain regions consistently outperform others in both sales and profitability
+- Some product categories generate high sales but low profit margins
+- Seasonal trends impact purchasing behavior significantly
+- Targeted strategies in underperforming regions can improve overall growth
 
-## &#x20;Key Insights
+## Business Recommendations
 
-* Certain regions consistently outperform others in both sales and profitability
-* Some product categories generate high sales but low profit margins
-* Seasonal trends impact purchasing behavior significantly
-* Targeted strategies in underperforming regions can improve overall growth
-
-## &#x20;Business Recommendations
-
-* Focus marketing efforts on high-growth regions
-* Reassess pricing or operational costs in low-margin categories
-* Expand inventory for top-performing products
-* Develop region-specific sales strategies
-
+- Focus marketing efforts on high-growth regions
+- Reassess pricing or operational costs in low-margin categories
+- Expand inventory for top-performing products
+- Develop region-specific sales strategies
